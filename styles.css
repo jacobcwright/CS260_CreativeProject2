@@ -1,0 +1,37 @@
+#home-btn {
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    font-size: 5.2vw;
+    border: black;
+    border-style: solid;
+    border-width: .3vw;
+}
+
+#button-center {
+    /* margin: 20%;
+    margin-left: 48%; 
+    */
+    text-align: center;
+    margin-top: 12.5%;
+}
+
+
+#home-title {
+    text-align: center;
+    margin-top: 5%;
+    font-size: 6.2vw;
+    color: white;
+    /*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2.00px;
+}
+
+#home-body {
+    background: url("https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
